@@ -1,5 +1,5 @@
-NAME: Alicia Friedrich
-MATRIKELNUMMER: 219467
+# NAME: Alicia Friedrich
+# MATRIKELNUMMER: 219467
 
 
 
